@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chelseamcgovern/chelseasburgerbar2/issues"
   },
-  "homepage": "https://github.com/chelseamcgovern/chelseasburgerbar2#readme"
+  "homepage": "https://github.com/chelseamcgovern/chelseasburgerbar2#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
 }
