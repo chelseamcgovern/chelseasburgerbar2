@@ -1,0 +1,20 @@
+{
+  "name": "chelseasburgerbar2",
+  "version": "1.0.0",
+  "description": "Chelsea's Burger Bar Uses Sequelize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelseamcgovern/chelseasburgerbar2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelseamcgovern/chelseasburgerbar2/issues"
+  },
+  "homepage": "https://github.com/chelseamcgovern/chelseasburgerbar2#readme"
+}
